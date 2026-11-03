@@ -75,4 +75,5 @@ Log in using the following method:
 • Complete the verification process.
 
 Output:
-![Uploading Screenshot 2026-10-31 090241.png…]()
+<img width="1917" height="1078" alt="Screenshot 2026-10-31 090241" src="https://github.com/user-attachments/assets/5b0c01c7-94ad-4930-980a-2840eea097d0" />
+
